@@ -5,6 +5,10 @@ public class Employee {
     private Integer empId;
     private String name;
     private double salary;
+	
+	// fix Bug -122
+	
+	// Logic 
 
     public Employee(Integer empId, String name, double salary) {
         this.empId = empId;
